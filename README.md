@@ -37,3 +37,6 @@ Extras: Un botón que copie el texto encriptado/desencriptado para la sección d
 <h1>Encriptador Desarrollado para el Challenge:</h1>
 
  <p title='clickea en la imagen para ir a la aplicación' style="text-align:center"><a href="https://oscar-baroni.github.io/Challenge_Alura/"><img src="Imagenes/Encriptador de Texto.jpg"></a>
+
+ <h2>Autor:</h2>
+<p>Oscar Adolfo Baroni <a href="https://www.linkedin.com/in/oscar-adolfo-baroni/">(Linkedin)</a></p>
